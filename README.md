@@ -2,7 +2,7 @@
 Modeling of published clinical ketoconazole-midazolam DDI studies for model evaluation
 
 ## Repository files
-Within this repository, we distribute a PK-Sim project file containing simulations of the published clinical studies used to evaluate the predictive performance of the ketoconazole model [[1](https://www.mdpi.com/1999-4923/15/2/679)] regarding the DDI with the CYP3A4 victim drugs midazolam, including the respective observed data digitized from literature reports. The applied midazolam, has been published previously [[2](https://ascpt.onlinelibrary.wiley.com/doi/abs/10.1002/psp4.12343)]. For further details and documentation please refer to [[1](https://www.mdpi.com/1999-4923/15/2/679)].
+Within this repository, we distribute a PK-Sim project file containing simulations of the published clinical studies used to evaluate the predictive performance of the ketoconazole model [[1](https://www.mdpi.com/1999-4923/15/2/679)] regarding the DDI with the CYP3A4 victim drug midazolam, including the respective observed data digitized from literature reports. The applied midazolam, has been published previously [[2](https://ascpt.onlinelibrary.wiley.com/doi/abs/10.1002/psp4.12343)]. For further details and documentation please refer to [[1](https://www.mdpi.com/1999-4923/15/2/679)].
 
 ## Version information
 
